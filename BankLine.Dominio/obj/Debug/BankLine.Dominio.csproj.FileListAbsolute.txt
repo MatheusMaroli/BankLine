@@ -1,0 +1,5 @@
+F:\C#\BankLine\BankLine.Dominio\bin\Debug\BankLine.Dominio.dll
+F:\C#\BankLine\BankLine.Dominio\bin\Debug\BankLine.Dominio.pdb
+F:\C#\BankLine\BankLine.Dominio\obj\Debug\BankLine.Dominio.csprojResolveAssemblyReference.cache
+F:\C#\BankLine\BankLine.Dominio\obj\Debug\BankLine.Dominio.dll
+F:\C#\BankLine\BankLine.Dominio\obj\Debug\BankLine.Dominio.pdb

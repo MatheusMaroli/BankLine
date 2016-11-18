@@ -1,0 +1,6 @@
+F:\C#\BankLine\BankLine.Teste\bin\Debug\BankLine.Teste.dll
+F:\C#\BankLine\BankLine.Teste\bin\Debug\BankLine.Teste.pdb
+F:\C#\BankLine\BankLine.Teste\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\C#\BankLine\BankLine.Teste\obj\Debug\BankLine.Teste.csprojResolveAssemblyReference.cache
+F:\C#\BankLine\BankLine.Teste\obj\Debug\BankLine.Teste.dll
+F:\C#\BankLine\BankLine.Teste\obj\Debug\BankLine.Teste.pdb
